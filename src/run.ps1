@@ -20,7 +20,7 @@ $global:no_gyms = $true;      #--no-gyms
 $global:no_pokestops = $true; #--no-pokestops
 $global:hostURL = "0.0.0.0";  #--host
 $global:startCoords = [Coords]::new(53.1323617,23.1445592);
-$global:stepRadius = 100;
+$global:stepRadius = 85;
 #______________________
 $global:port; #--port
 $global:portStart = 5000;
